@@ -1,7 +1,8 @@
 # C-programming
 C source programs from the "Computer Programming" course
 
-Το παρακάτω πρόγραμμα μεταγλωτήστηκε με gcc compiler και εκτελέστηκε σε περιβάλλον linux-Ubuntu.
+Τα παραπάνω προγράμματα μεταγλωτήστηκαν με gcc compiler και εκτελέστηκαν σε περιβάλλον linux-Ubuntu.
 
+Ca3.3
 English Translation:
-The following program was compiled with the gcc compiler and ran in linux-Ubuntu environment.
+The above programs were compiled with the gcc compiler and run in linux-Ubuntu environment.
