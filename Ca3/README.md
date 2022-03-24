@@ -6,7 +6,8 @@ Ca3EX3: Το πρόγραμμα αυτό δέχεται από το πληκτρ
 
 Ca3X4: Πρόγραμμα το οποίο διαβάζει από την standard είσοδο ακέραιους αριθμούς και τυπώνει τον μεγαλύτερο από αυτούς και τη σειρά με την οποία εισήχθη χωρίς τη χρήση της εντολής "if" ή οποιασδήποτε άλλης μορφής επανάληψης.
 
-English Translation: The above programs were compiled with the gcc compiler and run in linux-Ubuntu environment.
+**English Translation:**
+The above programs were compiled with the gcc compiler and run in linux-Ubuntu environment.
 
 Ca3EX3: This program accepts the coefficients of a quadratic equation from the keyboard and prints its roots.
 
