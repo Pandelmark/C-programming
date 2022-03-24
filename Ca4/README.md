@@ -10,5 +10,3 @@ Ca4EX3: Πρόγραμμα το οποίο δέχεται ως είσοδο Ν �
 The above programs were compiled with the gcc compiler and run in linux-Ubuntu environment.
 
 Ca4EX3: A program that accepts N integers as input and prints the average of the positive numbers, the product of the negatives, the square of each odd, and the number of even numbers.
-
-Ca4EX4:
