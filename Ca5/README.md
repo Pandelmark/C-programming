@@ -12,7 +12,7 @@ Ca5EX1: Το πρόγραμμα αυτό υπολογίζει το ημίτον�
 σύγκριση των αποτελεσμάτων υλοποιούνται με αυτόνομα
 υποπρογράμματα.
 
-English Translation:
+**English Translation:**
 The above programs were compiled with the gcc compiler and run in linux-Ubuntu environment.
 
 Ca5EX1: This program calculates the sine and the cosine of an angle which is given in degrees. The calculations of sine and cosine are
