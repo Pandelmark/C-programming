@@ -12,12 +12,12 @@
 σύγκριση των αποτελεσμάτων υλοποιούνται με αυτόνομα
 υποπρογράμματα.
 
-**Ca5EX2**: Πρόγραμμα το οποίο διαβάζει δύο ακέραιους
-αριθμούς Α και Β από τη standard είσοδο και στην συνέχεια δίνει
+**Ca5EX2**: Πρόγραμμα το οποίο διαβάζει δύο ακέραιους αριθμούς Α και Β από τη standard είσοδο και στην συνέχεια δίνει
 στον χρήστη τη δυνατότητα να εκτελέσει μία ή περισσότερες από τις ακόλουθες λειτουργίες με τους αριθμούς αυτούς:
 * Υπολογισμό της δύναμης Α^Β
 * Υπολογισμό του Α! και του Β!
 * Υπολογισμό του πλήθους των συνδυασμών Α ανά Β.
+Οι πράξεις δυνάμεων και παραγώγισης γίνονται με τη χρήση των συναρτήσεων στο αρχείο "POWERnFACTOR".
 
 
 **English Translation:**
@@ -29,8 +29,7 @@ made with the following formulas:
 ![image](https://user-images.githubusercontent.com/73886448/160575854-10462903-7681-4fd9-a211-e63d699b0a2a.png)
 
 where x is the angle in radii. The results are controlled through the corresponding language functions. Its introduction
-given, the conversion of degrees to radii, the calculations and the
-comparison of results are implemented autonomously
+given, the conversion of degrees to radii, the calculations and the comparison of results are implemented autonomously
 subprograms.
 
 **Ca5EX2:** A program that reads two integers
@@ -39,3 +38,4 @@ allows the user to perform one or more of the following operations with the give
 * Calculation of the force AB
 * Calculation of A! and B!
 * Calculate the number of combinations A per B.
+Operations of forces and derivatives are performed using the functions in the "POWERnFACTOR" file.
