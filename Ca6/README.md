@@ -20,6 +20,7 @@
 • Τη συχνότητα εμφάνισης του κάθε ένα από τους Ν αριθμούς στο σύνολο των συνδυασμών που τυπώθηκαν.
 
 
+
 **English Translation:**
 
 This program accepts the following from the keyboard:
