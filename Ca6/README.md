@@ -1,7 +1,7 @@
 **C programming**
 
 
-**Ca6EX2.c:** Πρόγραμμα λόττο σε C!
+**lotto.c:** Πρόγραμμα λόττο σε C!
 
 Το πρόγραμμα αυτό δέχεται από το πληκτρολόγιο τα εξής:
 • Ν διαφορετικούς ακέραιους αριθμούς στο διάστημα [1 … 49] (6 < Ν ≤ 49).
@@ -19,7 +19,7 @@
 • Το πλήθος των συνδυασμών που τυπώθηκαν.
 • Τη συχνότητα εμφάνισης του κάθε ένα από τους Ν αριθμούς στο σύνολο των συνδυασμών που τυπώθηκαν.
 
-
+**minesweeper.c:** Ένα λογικό παιχνίδι Ναρκαλιευτή που παίζεται από το τερματικό όπου ο χρήστης πληκτρολογεί τις επιλογές του σε αυτό.
 
 **English Translation:**
 
@@ -38,3 +38,5 @@ Finally the program prints:
 • The number of combinations that met the first, but did not meet the second condition.
 • The number of combinations printed.
 • The frequency of occurrence of each of the N numbers in the set of printed combinations.
+
+**minesweeper.c:** A logical Minesweeper game which played from the terminal where the user will type their options into it.
