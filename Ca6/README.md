@@ -23,6 +23,8 @@
 
 **English Translation:**
 
+**lotto.c:** C lotto program!
+
 This program accepts the following from the keyboard:
 • N different integers in space [1… 49] (6 <N ≤ 49).
 • A pair of integers X1, X2 such that: 0 ≤ X1 ≤ X2 ≤ 6.
